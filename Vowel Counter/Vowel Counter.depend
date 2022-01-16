@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1398085647 source:c:\users\kelvin\desktop\codeblocks projects\_challenges\vowel counter\main.cpp
+	<iostream>
+	<string>
+
